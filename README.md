@@ -1,6 +1,6 @@
 # postshotbatcher
 
-This is a tool for running multiple postshot training runs all at once from a folder of images, with the last three digit of the file name being the frame (IE camera_A_021 for frame number 21).
+This is a tool for running multiple postshot frame training runs all at once from a folder of images, with the last three digit of the file name being the frame (IE camera_A_021 for frame number 21).
 
 To run this first install python -> <a href="https://www.python.org/downloads/">Python</a>
 
